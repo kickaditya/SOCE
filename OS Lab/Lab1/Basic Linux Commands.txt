@@ -1,1 +1,2 @@
 ls ->
+rm -> removes a directory
