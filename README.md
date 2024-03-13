@@ -1,8 +1,8 @@
-# SOCE
-School Of Computer Engineering
-Here files of the whole course is indexed!
+# School of Computer Engineering (SOCE)
+**School Of Computer Engineering**
+**Here files of the whole course is indexed!**
 
-<h1>Data Structures</h1>
+# Data Structures
 
 # Linked List
 
