@@ -4,7 +4,7 @@
 
 # Data Structures
 
-# Linked List
+<h3>Linked List<h3/>
 
 -> [Circular Linked List](https://github.com/adityaxanand/SOCE/blob/main/Data%20Structures/circularLinkedList.c) <br/>
 -> [Single Linked List](https://github.com/adityaxanand/SOCE/blob/main/Data%20Structures/singleLinkedList.c) <br/>
