@@ -40,10 +40,10 @@
 
 **Lab2**
 
-* [Print Day Number](https://github.com/adityaxanand/SOCE/blob/main/OS%20Lab/Lab1/day_number.sh) <br/>
-* [Print Factorial](https://github.com/adityaxanand/SOCE/blob/main/OS%20Lab/Lab1/factorial.sh) <br/>
-* [Print Fibonacci](https://github.com/adityaxanand/SOCE/blob/main/OS%20Lab/Lab1/fibonacci.sh) <br/>
-* [Check Palindrome](https://github.com/adityaxanand/SOCE/blob/main/OS%20Lab/Lab1/palindrome.sh) <br/>
-* [Print Prime Number Between Range](https://github.com/adityaxanand/SOCE/blob/main/OS%20Lab/Lab1/prime_in_range.sh) <br/>
-* [Check Prime](https://github.com/adityaxanand/SOCE/blob/main/OS%20Lab/Lab1/prime.sh) <br/>
-* [Check Vowel/Consonant](https://github.com/adityaxanand/SOCE/blob/main/OS%20Lab/Lab1/vowel_consonant.sh) <br/>
+* [Print Day Number](https://github.com/adityaxanand/SOCE/blob/main/OS%20Lab/Lab2/day_number.sh) <br/>
+* [Print Factorial](https://github.com/adityaxanand/SOCE/blob/main/OS%20Lab/Lab2/factorial.sh) <br/>
+* [Print Fibonacci](https://github.com/adityaxanand/SOCE/blob/main/OS%20Lab/Lab2/fibonacci.sh) <br/>
+* [Check Palindrome](https://github.com/adityaxanand/SOCE/blob/main/OS%20Lab/Lab2/palindrome.sh) <br/>
+* [Print Prime Number Between Range](https://github.com/adityaxanand/SOCE/blob/main/OS%20Lab/Lab2/prime_in_range.sh) <br/>
+* [Check Prime](https://github.com/adityaxanand/SOCE/blob/main/OS%20Lab/Lab2/prime.sh) <br/>
+* [Check Vowel/Consonant](https://github.com/adityaxanand/SOCE/blob/main/OS%20Lab/Lab2/vowel_consonant.sh) <br/>
