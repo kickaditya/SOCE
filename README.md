@@ -19,3 +19,13 @@
 -> [Swap First Last Name](https://github.com/adityaxanand/SOCE/blob/main/OOPS%20Java%20Lab/Lab1/printName.java) <br/>
 -> [Student Details](https://github.com/adityaxanand/SOCE/blob/main/OOPS%20Java%20Lab/Lab1/student.java) <br/>
 -> [Print Weekday](https://github.com/adityaxanand/SOCE/blob/main/OOPS%20Java%20Lab/Lab1/weekday.java) <br/>
+
+**Lab2**
+
+-> [Command Line Input In Java](https://github.com/adityaxanand/SOCE/blob/main/OOPS%20Java%20Lab/Lab2/commandLineDemo.java) <br/>
+-> [Count Occurences](https://github.com/adityaxanand/SOCE/blob/main/OOPS%20Java%20Lab/Lab2/countOccurences.java) <br/>
+-> [Count Even Odd](https://github.com/adityaxanand/SOCE/blob/main/OOPS%20Java%20Lab/Lab2/evenOdd.java) <br/>
+-> [Find Largest](https://github.com/adityaxanand/SOCE/blob/main/OOPS%20Java%20Lab/Lab2/largestNumber.java) <br/>
+-> [List Sorting](https://github.com/adityaxanand/SOCE/blob/main/OOPS%20Java%20Lab/Lab2/sortList.java) <br/>
+-> [Find Objects Created Out Of Static Modifier](https://github.com/adityaxanand/SOCE/blob/main/OOPS%20Java%20Lab/Lab2/staticModifier.java) <br/>
+-> [Sum Of Diagonal](https://github.com/adityaxanand/SOCE/blob/main/OOPS%20Java%20Lab/Lab2/sumDiagonal.java) <br/>
