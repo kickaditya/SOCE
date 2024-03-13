@@ -1,7 +1,7 @@
 # SOCE
-<p>School Of Computer Engineering</p>
-<p>Here files of the whole course is indexed!</p>
+School Of Computer Engineering
+Here files of the whole course is indexed!
 
 <h1>Data Structures</h1>
 # Linked List
-<p>-> Circular Linked List</p>[./Data Structures/circularLinkedList.c]
+-> Circular Linked List[./Data Structures/circularLinkedList.c]
