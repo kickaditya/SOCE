@@ -47,3 +47,7 @@
 * [Print Prime Number Between Range](https://github.com/adityaxanand/SOCE/blob/main/OS%20Lab/Lab2/prime_in_range.sh) <br/>
 * [Check Prime](https://github.com/adityaxanand/SOCE/blob/main/OS%20Lab/Lab2/prime.sh) <br/>
 * [Check Vowel/Consonant](https://github.com/adityaxanand/SOCE/blob/main/OS%20Lab/Lab2/vowel_consonant.sh) <br/>
+
+**Lab3**
+
+* [First Come First Serve Implementation](https://github.com/adityaxanand/SOCE/blob/main/OS%20Lab/Lab3/fcfs.sh) <br/>
