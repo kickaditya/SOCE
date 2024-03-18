@@ -12,6 +12,8 @@
 
  import java.util.Scanner;
 
+import general.Employee;
+
  interface Employee {
      void getDetails(String empId, String empName);
  }

@@ -1,6 +1,7 @@
 
 /*
- * Write a program to overload subtract method with various parameters in a class in Java. Write the driver class to use the different subtract methods using object.
+ * Write a program to overload subtract method with various parameters in a class in Java.
+ * Write the driver class to use the different subtract methods using object.
  * Input: Mention various subtract method having different parameters.
  * Output: Subtract method will display the result accordingly
  */

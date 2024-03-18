@@ -30,6 +30,14 @@
 * [Find Objects Created Out Of Static Modifier](https://github.com/adityaxanand/SOCE/blob/main/OOPS%20Java%20Lab/Lab2/staticModifier.java) <br/>
 * [Sum Of Diagonal](https://github.com/adityaxanand/SOCE/blob/main/OOPS%20Java%20Lab/Lab2/sumDiagonal.java) <br/>
 
+**Lab3**
+
+* [COverload Rectangle](https://github.com/adityaxanand/SOCE/blob/main/OOPS%20Java%20Lab/Lab3/area.java) <br/>
+* [Constructor Overloading](https://github.com/adityaxanand/SOCE/blob/main/OOPS%20Java%20Lab/Lab3/areaRectangle.java) <br/>
+* [Students Academics Details](https://github.com/adityaxanand/SOCE/blob/main/OOPS%20Java%20Lab/Lab3/overloadSub.java) <br/>
+* [Rectangle Operations](https://github.com/adityaxanand/SOCE/blob/main/OOPS%20Java%20Lab/Lab3/rectangle.java) <br/>
+* [Application Class Demo](https://github.com/adityaxanand/SOCE/blob/main/OOPS%20Java%20Lab/Lab3/volume.java) <br/>
+
 
 
 # Operating System Lab
