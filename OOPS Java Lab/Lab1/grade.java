@@ -13,7 +13,7 @@ public class grade {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your mark");
         int mark=sc.nextInt();
-        if(mark>=90)
+        if(mark>=90}
         {
             System.out.println("Grade O");
         }

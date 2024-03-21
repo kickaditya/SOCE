@@ -1,2 +1,2 @@
-ls ->
+ls -> shows the present files and folders int the present directory
 rm -> removes a directory
